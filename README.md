@@ -1,4 +1,4 @@
-in ![Screenshot (47)](https://github.com/asrafulsharker/Web-Engineering-Project-Section-Management-System/assets/64266026/f27bdf88-54fd-42f5-a19a-f14d71b66d03)﻿# Web-Engineering-Project-Section-Management-System
+
  <h2>AD, Header & Hero Section</h2>
  
 ![Screenshot (40)](https://github.com/asrafulsharker/Web-Engineering-Project-Section-Management-System/assets/64266026/3805a2d5-62c7-4ce2-bc84-db6e73c66c29)
